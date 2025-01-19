@@ -1,4 +1,4 @@
-# 👨‍💻 Raphany
+# 💻 Raphany
 
 **`Desenvolvedor Front-End`**
 
