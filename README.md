@@ -1,17 +1,17 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Olá! 👋 Bem-vindo ao meu Perfil no GitHub
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-I'm **Raphany**, a Front-End Developer passionate about building modern and dynamic user interfaces.
+Eu sou o **Raphany**, um Desenvolvedor Front-End apaixonado por criar interfaces modernas e dinâmicas.
 
-- 🔭 Currently working on: **Developing web and mobile applications**.
-- 🌱 Learning: **Advanced front-end frameworks and tools**.
+- 🔭 Atualmente trabalhando em: **Desenvolvimento de aplicações web e mobile**.
+- 🌱 Aprendendo: **Ferramentas e frameworks avançados de front-end**.
 
 ---
 
-## 🛠️ Frontend Skills
+## 🛠️ Habilidades em Front-End
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5" alt="HTML5">
@@ -28,7 +28,7 @@ I'm **Raphany**, a Front-End Developer passionate about building modern and dyna
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raphany&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
@@ -37,7 +37,7 @@ I'm **Raphany**, a Front-End Developer passionate about building modern and dyna
 
 ---
 
-## 📩 Connect with Me
+## 📩 Conecte-se Comigo
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
